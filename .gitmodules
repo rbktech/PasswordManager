@@ -1,0 +1,3 @@
+[submodule "password-manager-mobile-android-kotlin"]
+	path = password-manager-mobile-android-kotlin
+	url = https://github.com/rbktech/password-manager-mobile-android-kotlin.git
